@@ -1,6 +1,8 @@
 Physically Feasible Dynamic Parameter Identification of the WAM Robot 7-DOF
 ===========================================================================
 
+[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.10534.png)](http://dx.doi.org/10.5281/zenodo.10534)
+
 _Research notebook from the paper:_
 
 **Sousa, Cristóvão D. and Cortesão, Rui, "Physically feasible dynamic parameter identification of the 7-DOF WAM robot," Intelligent Robots and Systems (IROS), 2013 IEEE/RSJ International Conference on , pp.2868-2873, 3-7 Nov. 2013, Tokyo, Japan, doi: [10.1109/IROS.2013.6696762](http://dx.doi.org/10.1109/IROS.2013.6696762)**
